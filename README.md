@@ -1,24 +1,58 @@
-# Commercial Data Dashboards
+# Dashboard - Users Access on a fictional e-Commerce website
 
 ## 📃Description
 
-This project, suggested by the chapter 5 of "Microsoft Power BI Para Business Intelligence e Data Science" Data Science Academy course, explores fictional commercial data and its visualization on Power BI. 
+This repository contains a dashboard, made on Power BI, that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user didn't successfuly logged in the platform), warning and info (user, who is probably an employee/system admin, changed an information in the website).
 
-![print_dashboard](https://github.com/user-attachments/assets/4e0193f2-158f-4541-9471-8154db786967)
-
-## 🖥️How To Check The Dashboards?
-
-To check the dashboards, you will need to download this repository's .pbix file and to have Microsoft Power BI in your computer to open it.
+![image](https://github.com/user-attachments/assets/666a51ca-b20c-4e93-8cb8-1f5659b9a73a)
 
 ## 🤖 Used Technologies
 - Power BI
-- Smart Narrative
+- Python  
+    - pandas
+    - datetime
+    - random
+    - faker
 
-## 🧐 Creation Process
+## 🖥️Data Extraction 
 
-To create these dashboards, I uploaded the fictional commercial data on Power BI. Then, I fixed some of its issues (like lines repetition) and decided which insights would be interesting to be extracted. After that, the proper grapphics to data visualization were selected and you can check them on the dashboards.
+The fictional data (contained in the _random_data.json_ file), was generated using a Python code, which can be seen in the "fake_data_generator.py" file. This code was idealized by [@Michael Machado](https://github.com/MachadoMichael/MachadoMichael).
 
-## 🚀 Insights
-- 3 dashboards were created.
+## 👩‍💻Data Transformation
+The fictional data was treated in another Python program (_treating_fake_data.py_). To achieve that, the pandas lib was used to turn the .json file into a dataframe. The 'date' column was converted to the datetime type, and the hours and months in that column were analysed. 
+
+## - New Column: Shift
+A new column ('shift') was created in the dataframe, and the 'date' column (its hours, to be more specific) determines its value. The logic below was used to fill the 'shift' column:
+
+If the hour in the 'date' column is...
+
+- lower than 6 and higher or equal to 0 (midnight), the shift should be 'dawn' ('madrugada', in portuguese.)
+
+- lower than 12 and higher or equal to 6, the shift should be 'morning' ('manhã', in portuguese.)
+
+- lower than 18 and higher or equal to 12, the shift should be 'afternoon' ('tarde', in portuguese.)
+
+- lower than 0 (midnight) and higher or equal to 18, the shift should be 'night' ('noite', in portuguese.)
+
+With that column in hands, it is possible to analyse when (in which shift) the e-Commerce platform was most used. 
+
+## - New Column: Month
+A new column ('month') was created in the dataframe, and the 'date' column (its months, to be more specific) determines its value. The logic below was used to fill this new column:
+
+A list of months was created in the function 'get_month' of the program. Each element of the list corresponds to a month of the year ('january', 'february', 'march', ..., 'december').
+
+The function receives as a parameter the month contained in the 'date' column, which is an integer number that varies from 1 to 12, and returns the list element contained in the position determined by the given number - 1.
+
+With that column in hands, it is possible to analyse in which month of 2023 the e-Commerce platform was most accessed. 
+
+## 📊Data Load
+After the data transformation, the dataframe was converted into a new .json file (_treated_data.json_). That json file was loaded on Power BI and proper grapphics were selected to data visualization on the dashboard.
+
+## 🧐 Dashboard's Functionalities 
+Power BI allows data visualization dynamism by making possible to apply filters on the dashboard.
+You can filter the data based on an user, type of content accessed, access shift, searched product or month. The dashboard will adapt itself to show the data while having your filter as the primary parameter.
+
+
+## 💡Insights
 
 
