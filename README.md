@@ -2,9 +2,9 @@
 
 ## 📃Description
 
-This repository contains a dashboard, made on Power BI, that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user didn't successfuly logged in the platform), warning and info (user, who is probably an employee/system admin, changed an information in the website).
+This repository contains a dashboard, made on Power BI, that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user failed to log in the platform), success (user successfuly logged in the platform) and info (user, who is probably an employee/system admin, changed an information in the website).
 
-![image](https://github.com/user-attachments/assets/666a51ca-b20c-4e93-8cb8-1f5659b9a73a)
+![image](https://github.com/user-attachments/assets/67f741ac-0cbf-4a49-804c-f26979b33117)
 
 ## 🤖 Used Technologies
 - Power BI
@@ -54,5 +54,9 @@ You can filter the data based on an user, type of content accessed, access shift
 
 
 ## 💡Insights
-
-
+- The fictional website had a total of 114 accesses in 2023;
+- Video is the most required type of information;
+- The afternoon is the peak shift in terms of user access;
+- December of 2023 was the month of the year with the higher number of accesses;
+- Failed attempts (ERROR) of logins happen most often at night (14) and during afternoons (14);
+- Laptop is the most required product.
