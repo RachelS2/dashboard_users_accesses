@@ -18,3 +18,6 @@ To create these dashboards, I uploaded the fictional commercial data on Power BI
 
 ## 🚀 Insights
 - 3 dashboards were created.
+
+- ![print_dashboard](https://github.com/user-attachments/assets/4e0193f2-158f-4541-9471-8154db786967)
+
