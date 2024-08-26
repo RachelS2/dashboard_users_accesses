@@ -2,7 +2,7 @@
 
 ## 📃Description
 
-This repository contains a dashboard, made on Power BI, that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user failed to log in the platform), success (user successfuly logged in the platform) and info (user, who is probably an employee/system admin, changed an information in the website).
+This repository contains a dashboard, made on Power BI by myself and [@Guilherme Abreu](https://github.com/guilhermedel), that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user failed to log in the platform), success (user successfuly logged in the platform) and info (user, who is probably an employee/system admin, changed an information in the website).
 
 ![image](https://github.com/user-attachments/assets/67f741ac-0cbf-4a49-804c-f26979b33117)
 
