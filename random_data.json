@@ -1,0 +1,800 @@
+[
+    {
+        "date": "2024-01-23 02:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Justin Walker"
+    },
+    {
+        "date": "2024-01-23 02:00:00",
+        "level": "ERROR",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Rebecca Lambert"
+    },
+    {
+        "date": "2024-08-23 02:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Robert Matthews"
+    },
+    {
+        "date": "2024-01-23 02:00:00",
+        "level": "INFO",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Dana Yu"
+    },
+    {
+        "date": "2024-01-23 02:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Ashley Walls"
+    },
+    {
+        "date": "2024-07-23 02:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Colin Hernandez"
+    },
+    {
+        "date": "2024-07-23 08:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Stacy Buckley"
+    },
+    {
+        "date": "2024-07-23 08:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "James Allen"
+    },
+    {
+        "date": "2024-07-23 08:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Jessica Johnson"
+    },
+    {
+        "date": "2024-07-23 08:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Kelly Joseph"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Sarah Wilkins"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Nicole Sampson"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Richard Santos"
+    },
+    {
+        "date": "2024-01-23 02:00:00",
+        "level": "ERROR",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Richard Santos"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "John Brown"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Cameron Wall"
+    },
+    {
+        "date": "2024-06-23 08:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Megan Cross"
+    },
+    {
+        "date": "2024-06-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Christine Johnson"
+    },
+        {
+        "date": "2024-06-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Joshua Mueller"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Joshua Mueller"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Jeffrey Murphy"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Matthew Rivera"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Danielle Baker"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Leah Butler MD"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "INFO",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Elizabeth Gonzalez"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Leah Butler MD"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Warren Harding"
+    },
+    {
+        "date": "2024-09-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Renee Robertson"
+    },
+        {
+        "date": "2024-09-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Travis Olson"
+    },
+    {
+        "date": "2024-10-23 15:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Teresa Smith"
+    },
+    {
+        "date": "2024-10-23 15:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "image",
+        "user": "Travis Olson"
+    },
+    {
+        "date": "2024-10-23 19:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Carolyn Fields"
+    },
+    {
+        "date": "2024-10-23 19:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Alexa Ramsey"
+    },
+    {
+        "date": "2024-10-23 19:00:00",
+        "level": "ERROR",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Leslie Sexton"
+    },
+    {
+        "date": "2024-10-23 19:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Cynthia Smith"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "John Ingram"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Douglas Olson"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Gregory Douglas"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Deborah Ayers"
+    },
+        {
+        "date": "2024-10-23 19:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Deborah Ayers"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "SUCCESS",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Matthew Velez"
+    },
+    {
+        "date": "2024-11-23 19:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Cassandra Campbell"
+    },
+    {
+        "date": "2024-12-23 19:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "web",
+        "user": "Vincent Turner"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Christian Porter"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Katherine Matthews"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Patricia Barrera"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "web",
+        "user": "Patricia Barrera"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "SUCCESS",
+        "query": "SmartOffice",
+        "search_type": "web",
+        "user": "Ryan Garcia"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Trevor Ross"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Angela Jones"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Shannon Chung"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Steven Huynh"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "INFO",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Steven Huynh"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "web",
+        "user": "David Nichols"
+    },
+    {
+        "date": "2024-12-23 02:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Richard Bradford DDS"
+    },
+    {
+        "date": "2024-12-23 20:00:00",
+        "level": "ERROR",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Perry Smith"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "David Calhoun"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "image",
+        "user": "Ryan Brooks"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Karen Huff"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "SUCCESS",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Joseph Moore"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "SUCCESS",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Karen Huff"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Matthew Davidson"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "SUCCESS",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Sandra Higgins"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "image",
+        "user": "Monica Williams"
+    },
+    {
+        "date": "2024-05-23 20:00:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Larry Sheppard DVM"
+    },
+    {
+        "date": "2024-03-23 20:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "web",
+        "user": "Bryan Jackson"
+    },
+    {
+        "date": "2024-03-23 20:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Kyle Rodriguez"
+    },
+    {
+        "date": "2024-03-23 21:00:00",
+        "level": "SUCCESS",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Andre Daniels"
+    },
+    {
+        "date": "2024-03-23 21:00:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "James Lawson"
+    },
+    {
+        "date": "2024-03-23 21:00:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Andre Daniels"
+    },
+    {
+        "date": "2024-03-23 21:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Crystal Reed"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Michele Wiley"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "ERROR",
+        "query": "Impressora",
+        "search_type": "image",
+        "user": "Maria Vaughn"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Alice Arnold"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "image",
+        "user": "Christopher Carter"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Spencer Peterson"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Janet Maxwell"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Spencer Peterson"
+    },
+    {
+        "date": "2024-02-23 21:00:00",
+        "level": "ERROR",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Jonathan Byrd"
+    },
+    {
+        "date": "2024-08-23 21:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Douglas Huerta"
+    },
+    {
+        "date": "2024-08-23 16:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Michelle Allen"
+    },
+    {
+        "date": "2024-08-23 16:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "William Jimenez"
+    },
+    {
+        "date": "2024-08-23 16:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "David Green"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Jason Black"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Jason Stephens"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Michelle Pugh"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "ERROR",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Donald Sampson"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "ERROR",
+        "query": "Monitor",
+        "search_type": "video",
+        "user": "Cynthia Gregory"
+    },
+    {
+        "date": "2024-07-23 16:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Cynthia Gregory"
+    },
+    {
+        "date": "2024-03-23 16:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "web",
+        "user": "Michael Oneal"
+    },
+    {
+        "date": "2024-03-23 17:00:00",
+        "level": "SUCCESS",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Jason Johnson"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Samantha Donovan"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Donna Valdez DVM"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "SUCCESS",
+        "query": "Monitor",
+        "search_type": "image",
+        "user": "Luke Horn"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "ERROR",
+        "query": "Servidor",
+        "search_type": "web",
+        "user": "Brett Moore"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "video",
+        "user": "Luke Horn"
+    },
+    {
+        "date": "2024-12-23 17:00:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Elizabeth Serrano"
+    },
+    {
+        "date": "2024-11-23 17:00:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "image",
+        "user": "Michael Harmon"
+    },
+    {
+        "date": "2024-11-23 17:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Daniel Wilson"
+    },
+    {
+        "date": "2024-11-23 17:00:00",
+        "level": "SUCCESS",
+        "query": "Notebook",
+        "search_type": "video",
+        "user": "Michael Harmon"
+    },
+    {
+        "date": "2024-11-23 17:00:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "web",
+        "user": "Erin Flores"
+    },
+    {
+        "date": "2024-11-23 17:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Kimberly Brown"
+    },
+    {
+        "date": "2024-10-23 17:00:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Cameron Mercer"
+    },
+    {
+        "date": "2024-10-23 17:30:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "video",
+        "user": "Thomas Thomas"
+    },
+    {
+        "date": "2024-10-23 17:30:00",
+        "level": "INFO",
+        "query": "SmartOffice",
+        "search_type": "web",
+        "user": "Bryan Kelly"
+    },
+    {
+        "date": "2024-10-23 17:30:00",
+        "level": "INFO",
+        "query": "Servidor",
+        "search_type": "video",
+        "user": "Kristine Page"
+    },
+    {
+        "date": "2024-05-23 17:30:00",
+        "level": "ERROR",
+        "query": "Notebook",
+        "search_type": "web",
+        "user": "Mrs. Melissa Neal"
+    },
+    {
+        "date": "2024-05-23 17:30:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "web",
+        "user": "Roy Thomas"
+    },
+    {
+        "date": "2024-05-23 17:30:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Casey Moore"
+    },
+    {
+        "date": "2024-06-23 17:30:00",
+        "level": "ERROR",
+        "query": "SmartOffice",
+        "search_type": "image",
+        "user": "Michelle Flores"
+    },
+    {
+        "date": "2024-06-23 17:30:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Dr. Christopher Daugherty"
+    },
+    {
+        "date": "2024-08-23 17:30:00",
+        "level": "INFO",
+        "query": "Impressora",
+        "search_type": "web",
+        "user": "Ivan Campbell"
+    },
+    {
+        "date": "2024-08-23 17:30:00",
+        "level": "SUCCESS",
+        "query": "Impressora",
+        "search_type": "image",
+        "user": "James Adams"
+    },
+    {
+        "date": "2024-05-23 17:30:00",
+        "level": "INFO",
+        "query": "Monitor",
+        "search_type": "web",
+        "user": "James Adams"
+    }
+]
