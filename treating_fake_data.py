@@ -1,6 +1,6 @@
 import pandas as pd  
 
-df = pd.read_json(r"C:\temp\Material\Python para Data Science\exploring_fake_data\random_data.json") 
+df = pd.read_json(r"C:\temp\Material\RachelS2\dashboard_users_accesses\random_data.json") 
 df['date'] = pd.to_datetime(df['date'])
 
 df['date'] = pd.to_datetime(df['date'])
