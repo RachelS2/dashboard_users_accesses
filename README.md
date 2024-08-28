@@ -4,7 +4,9 @@
 
 This repository contains a dashboard, made on Power BI by myself and [@Guilherme Abreu](https://github.com/guilhermedel), that explores fictional users access into an e-Commerce website. The website sells laptops, monitors, servers, printers and SmartOffice packages. There are 3 types of log in: error (user failed to log in the platform), success (user successfuly logged in the platform) and info (user, who is probably an employee/system admin, changed an information in the website).
 
-![image](https://github.com/user-attachments/assets/cd14ad02-3917-43cd-9232-7f889a631c91)
+<video width="320" height="240" controls>
+  <source src="C:\Users\rachels\Videos\Gravações de Tela\dashboard_ecommerce_access.mp4" type="video/mp4">
+</video>
 
 ## 🤖 Used Technologies
 - Power BI
